@@ -35,12 +35,12 @@ Where required, attach evidence of AI use.
 
 | Evidence Type | Attached? (Yes, No, N/A) | File Name |
 |---|---|---|
-| AI-generated draft | [Yes/No/N/A] | YES |
+| AI-generated draft | Yes | YES |
 | Prompt history | Yes | AI use evidence |
-| Screenshot of AI interaction | [Yes/No/N/A] | yes |
-| Exported AI conversation | [Yes/No/N/A] | N/A |
-| AI-generated code snippet | [Yes/No/N/A] |N/A  |
-| Revised version showing student input | [Yes/No/N/A] | NO |
+| Screenshot of AI interaction | [Yes/No/N/A] |SCREENSHOOTS|
+| Exported AI conversation | N/A ||
+| AI-generated code snippet | N/A  |
+| Revised version showing student input | NO | |
 
 ---
 
