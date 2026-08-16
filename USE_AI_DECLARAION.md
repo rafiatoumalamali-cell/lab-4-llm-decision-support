@@ -4,7 +4,8 @@
 **Lab Title:** Lab 4: LLMs and Prompt Engineering for Decision Support  
 **Student Name:** Rafiatou Malam Ali  
 **Student ID:** 30782027  
-**GitHub Repository Link:  
+**GitHub Repository Link:https://github.com/rafiatoumalamali-cell/lab-4-llm-decision-support.git
+
 **Date Submitted:** 16/08/2026
 
 ---
@@ -36,10 +37,10 @@ Where required, attach evidence of AI use.
 |---|---|---|
 | AI-generated draft | [Yes/No/N/A] | YES |
 | Prompt history | Yes | AI use evidence |
-| Screenshot of AI interaction | [Yes/No/N/A] |  |
-| Exported AI conversation | [Yes/No/N/A] |  |
-| AI-generated code snippet | [Yes/No/N/A] |  |
-| Revised version showing student input | [Yes/No/N/A] |  |
+| Screenshot of AI interaction | [Yes/No/N/A] | yes |
+| Exported AI conversation | [Yes/No/N/A] | N/A |
+| AI-generated code snippet | [Yes/No/N/A] |N/A  |
+| Revised version showing student input | [Yes/No/N/A] | NO |
 
 ---
 
