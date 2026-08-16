@@ -35,7 +35,7 @@ Where required, attach evidence of AI use.
 
 | Evidence Type | Attached? (Yes, No, N/A) | File Name |
 |---|---|---|
-| AI-generated draft | Yes | YES |
+| AI-generated draft | Yes |  |
 | Prompt history | Yes | AI use evidence |
 | Screenshot of AI interaction | [Yes/No/N/A] |SCREENSHOOTS|
 | Exported AI conversation | N/A ||
